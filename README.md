@@ -1,0 +1,2 @@
+# omega-git
+learning git
